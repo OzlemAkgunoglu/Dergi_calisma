@@ -1,0 +1,58 @@
+.bBaslik h1 {
+  color: darkorange;
+  font-size: 60px;
+  font-weight: bold;
+  font-family:'Shift', sans-serif;
+  position: relative;
+  top: 10px;
+  left: 100px;
+}
+
+  .kBaslik h3 {
+  color: green;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Shift', sans-serif;
+  position: absolute;
+  top: 0px;
+  left: 425px;
+}
+
+.giris p  {
+  color: darkorange;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: 'Shift', sans-serif;
+  position: relative;
+  top: 15px;
+  left: 150px;
+}
+.paragraf p {
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: serif;
+  position: unset;
+}
+.p1 p {
+  position: absolute;
+  top: 15x;
+  left: 200x;
+}
+.p2 p {
+  position: absolute;
+  top: 500x;
+  left: 400x;
+}
+.bilgikutusu {
+  font-family: 'Shift' , sans-serif;
+  color:white;
+  background-color: darkorange;
+  border-radius: 25px;
+  border-style: ridge;
+  border-color: darkorange;
+  position: relative;
+  top: 500x;
+  left: 400x;
+  margin: 20px;
+}
