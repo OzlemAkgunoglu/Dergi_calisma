@@ -27,19 +27,19 @@
   top: 15px;
   left: 150px;
 }
-.paragraf p {
+div.paragraf {
   color: black;
   font-weight: bold;
   font-size: 15px;
   font-family: serif;
   position: unset;
 }
-.p1 p {
+div.par1 {
   position: absolute;
   top: 15x;
   left: 200x;
 }
-.p2 p {
+div.par2 {
   position: absolute;
   top: 500x;
   left: 400x;
