@@ -27,22 +27,21 @@
   top: 15px;
   left: 150px;
 }
-div.paragraf {
+paragraf p {
   color: black;
   font-weight: bold;
   font-size: 15px;
   font-family: serif;
-  position: unset;
 }
-div.par1 {
+div.p1 {
   position: absolute;
-  top: 15x;
-  left: 200x;
+  top: 15px;
+  left: 200px;
 }
-div.par2 {
+div.p2 {
   position: absolute;
-  top: 500x;
-  left: 400x;
+  top: 500px;
+  left: 400px;
 }
 .bilgikutusu {
   font-family: 'Shift' , sans-serif;
